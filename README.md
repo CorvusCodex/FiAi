@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/CorvusCodex/FiAi/blob/main/FiAi.png?raw=true">
 </p>
 
 # FiAi
