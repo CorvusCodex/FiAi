@@ -9,6 +9,9 @@ The model is trying to forecast prices for next 24h, 7 days, 1 month and 1 year.
 ## For people without technical experience you can buy the compiled standalone application for windows from here:
 https://www.buymeacoffee.com/CorvusCodex/e/167457
 
+## For people who need Financial Forecast Ai (Stocks,currencies...) buy application for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/169645
+
 
 ## Installation
 
