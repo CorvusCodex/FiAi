@@ -39,7 +39,7 @@ Forecasting Financial prices is extremely complex and should not be done solely 
 
 MIT License
 
-Copyright (c) 2023 CorvusCodex
+Copyright (c) 2025 CorvusCodex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
